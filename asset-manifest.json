@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Dashboard-site/static/css/main.d87be435.chunk.css",
+    "main.js": "/Dashboard-site/static/js/main.6e22082f.chunk.js",
+    "main.js.map": "/Dashboard-site/static/js/main.6e22082f.chunk.js.map",
+    "runtime~main.js": "/Dashboard-site/static/js/runtime~main.08a95f9a.js",
+    "runtime~main.js.map": "/Dashboard-site/static/js/runtime~main.08a95f9a.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/Dashboard-site/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.beaae3a3.chunk.js": "/Dashboard-site/static/js/2.beaae3a3.chunk.js",
+    "static/js/2.beaae3a3.chunk.js.map": "/Dashboard-site/static/js/2.beaae3a3.chunk.js.map",
+    "index.html": "/Dashboard-site/index.html",
+    "precache-manifest.ffe9a36b050d5ae506998f21aeb1ea3e.js": "/Dashboard-site/precache-manifest.ffe9a36b050d5ae506998f21aeb1ea3e.js",
+    "service-worker.js": "/Dashboard-site/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/Dashboard-site/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.d87be435.chunk.css.map": "/Dashboard-site/static/css/main.d87be435.chunk.css.map",
+    "static/media/BG.jpg": "/Dashboard-site/static/media/BG.08efb632.jpg",
+    "static/media/CMRLOGI.jpg": "/Dashboard-site/static/media/CMRLOGI.d8042407.jpg",
+    "static/media/HomePage.css": "/Dashboard-site/static/media/background_img1.1c3cde30.jpg",
+    "static/media/basket.jpg": "/Dashboard-site/static/media/basket.7519ae07.jpg",
+    "static/media/bg_1.jpg": "/Dashboard-site/static/media/bg_1.4953f4a2.jpg",
+    "static/media/h11b.jpg": "/Dashboard-site/static/media/h11b.7a7fa971.jpg",
+    "static/media/h12.jpg": "/Dashboard-site/static/media/h12.b6e81fa2.jpg",
+    "static/media/handi6.jpg": "/Dashboard-site/static/media/handi6.4e452f4d.jpg",
+    "static/media/handicraft2.jpg": "/Dashboard-site/static/media/handicraft2.e333b433.jpg",
+    "static/media/handicraft4.jpg": "/Dashboard-site/static/media/handicraft4.9378c5b7.jpg"
+  }
+}
